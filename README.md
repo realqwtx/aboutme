@@ -1,2 +1,4 @@
-# aboutme
-all infomations about me (if you wanted to know)
+# 📚 About Me !
+
+Please choosing languages you prefered (TH/EN) in 'branch' .
+กรุณาเลือกภาษาที่คุณอยากอ่าน ได้ใน 'branch' เลยนะครับ
